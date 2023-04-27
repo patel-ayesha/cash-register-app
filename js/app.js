@@ -27,7 +27,7 @@ nextButton.addEventListener("click", () => {
       }
     });
   } else {
-    showError("The bill should be great than zero");
+    showError("The bill should be greater than zero");
   }
 });
 
